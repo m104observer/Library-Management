@@ -1,1 +1,1 @@
-# Library Database App created in Python for education purposes.
+# Library Database App created in Python for educational purposes.
